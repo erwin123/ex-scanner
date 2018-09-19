@@ -1,0 +1,8 @@
+
+.ui-widget:disabled {
+    opacity: 0.9 !important;
+}
+
+body{
+    font-family: "Open Sans", "Helvetica Neue", sans-serif !important;
+}

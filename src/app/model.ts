@@ -1,0 +1,20 @@
+export class Peserta {
+    peserta_id:string;
+    peserta_code:string;
+    peserta_gate:string;
+    peserta_nama:string;
+    peserta_birth:string;
+    peserta_posisi:string;
+    peserta_ktp:string;
+    peserta_lokasi_test:string;
+    peserta_tgl_test:string;
+    peserta_waktu_test:string;
+    peserta_photo:string;
+    peserta_email:string;
+    absen_masuk:string;
+    absen_keluar:string;
+    joblevel:string;
+    peserta_area:string;
+    absen_bypass:string;
+    absen_lok_tgl_waktu:string;
+}
